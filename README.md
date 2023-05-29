@@ -1,6 +1,5 @@
 # pdftomarkdown 
 
-## Main purpose is to recode my way to be a good engineer 
 
 
 
